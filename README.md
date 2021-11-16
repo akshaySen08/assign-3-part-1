@@ -1,6 +1,17 @@
 # assign-3-part-1
 Internet Computing Assignment 3
 
+Steps to run the application:
+
+1. Make sure you have Java installed on your computer.
+2. Install eclipse, and editor for writing Java applications.
+3. On the left hand side of the eclipse editor click on file option.
+4. Select "open application folder from computer".
+5. After selecting the folder, right click on the main folder visible on the left hand side work space of application.
+6. Click on Run as -> Java Application.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
 Inheritance can be defined as the process where one class acquires the properties (methods and fields) of another. With the use of inheritance the information is made manageable in a hierarchical order.
 
 The class which inherits the properties of other is known as subclass (derived class, child class) and the class whose properties are inherited is known as superclass (base class, parent class).
